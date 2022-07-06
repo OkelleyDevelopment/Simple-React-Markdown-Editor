@@ -1,0 +1,13 @@
+.output {
+  padding: 20px;
+  padding-left: 7%;
+}
+
+@media screen and (min-width: 480px) {
+  .output {
+    padding-left: 10%;
+  }
+  .input {
+    padding-top: 4%;
+  }
+}
